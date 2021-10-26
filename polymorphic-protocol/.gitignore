@@ -1,0 +1,7 @@
+polymorphic-protocol
+*.test
+
+# Testscript output directory (can be symlink).
+#
+test-polymorphic-protocol
+test-*.test
